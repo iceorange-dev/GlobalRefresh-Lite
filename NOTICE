@@ -1,0 +1,19 @@
+GlobalRefresh Lite
+
+This project is a stripped-down build of GlobalRefresh-PiP that keeps only the
+one-tap high-refresh PiP flow.
+
+Original project:
+https://github.com/CaiWanFeng/PiP
+Original author: CaiWanFeng
+
+Upstream project:
+https://github.com/Yoroin/GlobalRefresh-PiP
+Maintainer: Yoroin
+
+This project:
+https://github.com/iceorange-dev/GlobalRefresh-Lite
+
+When modifying, distributing, or publishing an app based on this project,
+please retain attribution to both CaiWanFeng and Yoroin, together with the
+corresponding project links.
